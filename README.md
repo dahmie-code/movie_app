@@ -1,4 +1,4 @@
-# movie_app
+
 <h1 align="center">Movie app Team Of Open Source</h1>
 <h3 align="center">A passionate frontend developers from Africa</h3>
 
